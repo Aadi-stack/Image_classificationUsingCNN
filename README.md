@@ -395,6 +395,6 @@ print('Validation Accuracy: %1.2f%%     Validation loss: %1.6f'%(x2[1]*100,x2[0]
 Training Accuracy  : 99.96%     Training loss  : 0.002454
 Validation Accuracy: 97.56%     Validation loss: 0.102678
 
-Conclusion
+# Conclusion
 
-The Architecture and parameter used in this network are capable of producing accuracy of 97.56% on Validation Data which is pretty good. It is possible to Achieve more accuracy on this dataset using deeper network and fine tuning of network parameters for training. You can download this trained model from resource directory and Play with it.
+The Architecture and parameter used in this network are capable of producing accuracy of 97.56% on Validation Data which is pretty good. It is possible to Achieve more accuracy on this dataset using deeper network and fine tuning of network parameters for training. 
